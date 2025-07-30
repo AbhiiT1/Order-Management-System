@@ -1,1 +1,1 @@
-# Order-Management-System
+# Order-Management-System  This a full stack project called Order Management System from where customers can order and also track the progress i.e. - status of their respective , also I have added admin pannel section . 
